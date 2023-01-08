@@ -1,0 +1,60 @@
+{
+    "Error": {
+      "title": "Error happened",
+      "404": "404 - Page not found"
+    },
+    "TranslationError": {
+      "title": "Missing translation",
+      "500": "500 - translation not found"
+    },
+    "Home": {
+      "title": "Home",
+      "content": "Homepage"
+    },
+  
+    "Header": {
+      "head": "Arrrbnb",
+      "starredRooms": "{numberStarred, plural, =0 {no starred room} =1 {one starred room} other {# starred rooms}}"
+    },
+  
+    "Create": {
+      "title": "Add rentable cabin"
+    },
+
+    "FormInput": {
+      "formTitle": "Title",
+      "formDescription": "Description",
+      "formHeroImageUrl": "Hero Image URL",
+      "formFeatured": "Featured",
+      "Featured": "Featured",
+      "AddCabin": "addCabin",
+      "formAddCabin": "Add cabin"
+    },
+  
+    "Promise": {
+      "loading": "Status: Loading ...",
+      "errorOccured": "An error occured! Status:",
+      "offline": "Maybe you are offline. Please check your internet connection"
+    },
+  
+    "Rooms": {
+      "title": "All Rooms",
+      "pages": "Page {firstNumber} of {secondNumber} ({total} results in total)"
+    },
+  
+    "Navigation": {
+      "cabins": "Cabins",
+      "addCabin": "Add cabin"
+    },
+  
+    "Pagination": {
+      "pages": "Page {firstNumber} of {secondNumber} ({total} results in total)",
+      "previous": "previous",
+      "next": "next"
+    },
+  
+    "RentableContent": {
+      "starred": "starred",
+      "errorOccured": "An error occured by clicking the star!"
+    }
+}
